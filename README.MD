@@ -2,7 +2,7 @@
 
 ## FastAPI Wrapper that looks like Express.js in python
 
-```js
+```python
 
 express = require('express')
 app = express()
